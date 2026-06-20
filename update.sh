@@ -3,7 +3,7 @@
 cd "$(dirname $0)"
 
 
-rsync -av --progress /home/rishu/data/smj_data smj_data
+#rsync -av --progress /home/rishu/data/smj_data smj_data
 
 echo "Loading data into Git ... "
 
