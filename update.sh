@@ -2,5 +2,5 @@
 
 
 git add .
-git commit -m "$@"
+git commit -m "mark update $@"
 git push origin main
