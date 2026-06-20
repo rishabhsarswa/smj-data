@@ -4357,3 +4357,5 @@
 1781958141_2026-06-20_17-52-21	lgrq0jerhiz9rpf8u admin location	"division"	"area"	"unknown"
 1781958486_2026-06-20_17-58-06	lgrq0jerhiz9rpf8u admin location	"comment"	"near kuparisar village"	""
 1781968346_2026-06-20_20-42-26	apu1tmzdzie4zru8s admin person	"lname"	"\u0917\u091f\u094d\u091f\u0942 \u0924\u093e\u0935\u0923\u0940\u092f\u093e"	"\u0917\u091f\u094d\u091f\u0942 \u0924\u0935\u0923\u0940\u092f\u093e"
+1781970634_2026-06-20_21-20-34	an8vnsst5wersziop admin person	"lname"	"\u091c\u0917\u0926\u0940\u0936 \u091c\u0938\u094d\u0938\u0941"	"\u091c\u0917\u0926\u093f\u0938 \u091c\u0938\u094d\u0938\u0941"
+1781970634_2026-06-20_21-20-34	an8vnsst5wersziop admin person	"status"	"unknown"	""
