@@ -4586,3 +4586,5 @@
 1782035259_2026-06-21_15-17-39	admu2oziwu2jeirdk admin person	"doc_profile_photo"	"photo_1782035259_2026-06-21_15-17-39.png"	""
 1782035310_2026-06-21_15-18-30	aqm7ed8mjnq4nra5y admin person	"doc_profile_photo"	"photo_1782035310_2026-06-21_15-18-30.png"	""
 1782035351_2026-06-21_15-19-11	aa95wvsmzg9h6np35 admin person	"doc_profile_photo"	"photo_1782035351_2026-06-21_15-19-11.png"	"photo_1778522239_2026-05-11_23-27-19.png"
+1782043558_2026-06-21_17-35-58	lh7jz7ymejl96nc7l admin location	"name"	"Gusainsar"	"Gusainsar Chhota"
+1782043558_2026-06-21_17-35-58	lh7jz7ymejl96nc7l admin location	"lname"	"\u0917\u0941\u0938\u093e\u0908\u0902\u0938\u0930"	"\u0917\u0941\u0938\u093e\u0908\u0902\u0938\u0930 \u091b\u094b\u091f\u093e"
