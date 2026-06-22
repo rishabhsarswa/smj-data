@@ -709,11 +709,11 @@ epic	location	{"epic":"lflxt5fgx689615v7","doc":"1778730127 2026-05-14","name":"
 epic	location	{"epic":"lgeucomlftzjoxax8","doc":"1778591954 2026-05-12","name":"Rajasthan","lname":"\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928","division":"state","branch":"lzbztnn5adiwpsi1g"}
 epic	location	{"epic":"lgrq0jerhiz9rpf8u","doc":"1778729629 2026-05-14","division":"area","branch":"ljoz7ze371a4zcw8k","name":"Sherpura","lname":"\u0936\u0947\u0930\u092a\u0941\u0930\u093e","comment":"near kuparisar village"}
 epic	location	{"epic":"lh7jz7ymejl96nc7l","doc":"1778738361 2026-05-14","name":"Gusainsar","lname":"\u0917\u0941\u0938\u093e\u0908\u0902\u0938\u0930","division":"area","branch":"lhv0phjtx32kwqf1g"}
-epic	location	{"epic":"lhv0phjtx32kwqf1g","doc":"1778728248 2026-05-14","name":"Bikaner Area","lname":"\u092c\u0940\u0915\u0928\u0947\u0930","division":"block","branch":"lpltr7r7cck3kwxk0"}
+epic	location	{"epic":"lhv0phjtx32kwqf1g","doc":"1778728248 2026-05-14","name":"Bikaner Area","lname":"\u092c\u0940\u0915\u093e\u0928\u0947\u0930","division":"block","branch":"lpltr7r7cck3kwxk0"}
 epic	location	{"epic":"ljhtwt285escukwol","doc":"1778649428 2026-05-13","name":"Jodhpur","division":"district","lname":"\u091c\u094b\u0927\u092a\u0941\u0930","branch":"lgeucomlftzjoxax8"}
 epic	location	{"epic":"ljoz7ze371a4zcw8k","doc":"1778726013 2026-05-14","name":"Lunkaransar","lname":"\u0932\u0941\u0923\u0915\u0930\u0923\u0938\u0930","division":"block","branch":"lpltr7r7cck3kwxk0"}
 epic	location	{"epic":"ljvy3zzj6y6pv6sno","doc":"1779505831 2026-05-23","branch":"lullviztp7z1kn82o","name":"Himatsar","lname":"\u0939\u093f\u092e\u094d\u091f\u0938\u0930","division":"area"}
-epic	location	{"epic":"lkqd5pyu6q7xin7sk","doc":"1778602610 2026-05-12","division":"area","branch":"lhv0phjtx32kwqf1g","name":"Bikaner City","lname":"\u092c\u0940\u0915\u0928\u0947\u0930 \u0938\u0939\u0930","merge":""}
+epic	location	{"epic":"lkqd5pyu6q7xin7sk","doc":"1778602610 2026-05-12","division":"area","branch":"lhv0phjtx32kwqf1g","name":"Bikaner City","lname":"\u092c\u0940\u0915\u093e\u0928\u0947\u0930 \u0938\u0939\u0930","merge":""}
 epic	location	{"epic":"lkyjb1q1s9fuu0569","doc":"1779873453 2026-05-27","branch":"lullviztp7z1kn82o","name":"Kakra","lname":"\u0915\u093e\u0915\u0921\u093c\u093e","division":"area"}
 epic	location	{"epic":"lmcwp2jtwnl75t59b","doc":"1779882296 2026-05-27","branch":"lhv0phjtx32kwqf1g","name":"Malasar","lname":"\u092e\u093e\u0932\u093e\u0938\u0930","division":"area"}
 epic	location	{"epic":"lmknmcccna6hcftn0","doc":"1779510908 2026-05-23","branch":"l79t7tzz1tumew45r","name":"Navalgarh","lname":"\u0928\u0935\u0932\u0917\u0922\u093c","division":"block"}
