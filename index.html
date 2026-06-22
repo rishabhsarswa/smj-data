@@ -10,7 +10,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0px;
-  background: url('https://rishabhsarswa.github.io/smj-data/smj_dataassets/wall.jpg') center/cover no-repeat fixed,
+  background: url('https://rishabhsarswa.github.io/smj-data/assets/wall.jpg') center/cover no-repeat fixed,
               rgba(255, 255, 255, 0.2); /* semi-transparent overlay color */
   background-blend-mode: overlay;
     /* Optional extras */
@@ -51,6 +51,7 @@ body {
 	bottom:0px;
 	height: calc(20px );
 	padding:10px;
+	text-align:center;
 }
   table {
       /* border-collapse: collapse;  ensures borders don’t double up */
@@ -88,7 +89,32 @@ a:active {
   cursor: crosshair;
 }
 
+.link {
+  color: initial;   /* resets to default browser color */
+  text-decoration: none; /* optional: removes underline */
+  background-color: #eeeeee;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding : 2px;
+}
+ 
+.link:hover {
+  background-color: #cce755; /* light blue */
+  color: #333;
+  cursor: pointer;
+}
 
+/* Click (active) effect */
+.link:active {
+  background-color: #cce7ff; /* darker blue */
+  color: #000;
+  cursor: crosshair;
+}
+
+.g-right
+{
+	float:left;
+}
 #output {
   border: 1px solid #ccc;
   padding: 10px;
@@ -184,7 +210,7 @@ hr{
 }
 #map_scale
 {
-	width:calc(70%);
+	width:calc(200px);
 }
 
 </style>
@@ -1254,7 +1280,8 @@ function map_lookout(epic)
 		</div>
 	</div>
 	<div id="sm_control">
-		Scale: <input id="map_scale" type="range" min="10" max="100" value="50">
+		<span class="g-right" >📐 <input class="" id="map_scale" type="range" min="10" max="100" value="50"></span>
+		<span class="g-right" >&nbsp; &nbsp; <a href="whatsapp://send?phone=919680724566&text=Hi%21%0A..." class="link" >💬</a></span>
 
 	</div>
 </body>
